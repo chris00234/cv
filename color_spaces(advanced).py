@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 #   But matplotlib reads an image as rgb format                        #
 ########################################################################
 
-img = cv.imread('Photos/hawaii.jpg')
+img = cv.imread('Photos/jenna.jpg')
 
 cv.imshow('Hawaii', img)
 
